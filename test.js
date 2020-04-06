@@ -1,4 +1,4 @@
 describe('First suite', function () {
-    it()
+    it("Good test")
 
 })
